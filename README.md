@@ -4,5 +4,5 @@ class 380
 # CSD 380 DevOps 
 ## Contributors
 
-*Adam Bailey
+* Adam Bailey
 * Javonta Young
